@@ -1,0 +1,6 @@
+{
+  "name": "Nyra — AI Life Concierge",
+  "description": "An AI-powered personal productivity concierge with a conversational assistant, habit tracker, Pomodoro timer, and to-do list.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
